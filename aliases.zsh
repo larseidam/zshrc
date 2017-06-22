@@ -4,7 +4,7 @@
 # alias definitions which can be edited/modified with 'aedit'
 #
 
-export EDITOR="vim"
+export EDITOR="nano"
 # But still use emacs-style zsh bindings
 # http://superuser.com/questions/403355/how-do-i-get-searching-through-my-command-history-working-with-tmux-and-zshell
 bindkey -e
